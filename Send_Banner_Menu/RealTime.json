@@ -1,38 +1,37 @@
-
 [
  {
     "NAMA": "ALL SKIN PATCHER",
-    "BANNER": "https://raw.githubusercontent.com/danyoktavian/Skin_Tools_Mobile_Legends/main/Send_Banner_Menu/IMG_BANNER/mobile-legends-free-heroes-740x416.jpg"
+    "BANNER1": "https://raw.githubusercontent.com/danyoktavian/Skin_Tools_Mobile_Legends/main/Send_Banner_Menu/IMG_BANNER/mobile-legends-free-heroes-740x416.jpg"
   },
   {
     "NAMA": "BLAZING",
-    "BANNER": "https://raw.githubusercontent.com/danyoktavian/Skin_Tools_Mobile_Legends/main/Send_Banner_Menu/IMG_BANNER/Blazing_Bounties_squad_wall.jpg"
+    "BANNER1": "https://raw.githubusercontent.com/danyoktavian/Skin_Tools_Mobile_Legends/main/Send_Banner_Menu/IMG_BANNER/Blazing_Bounties_squad_wall.jpg"
   },  {
     "NAMA": "DRAGON TIMER",
-    "BANNER": "https://raw.githubusercontent.com/danyoktavian/Skin_Tools_Mobile_Legends/main/Send_Banner_Menu/IMG_BANNER/Dragon_Tamer_squad_wall.jpg"
+    "BANNER1": "https://raw.githubusercontent.com/danyoktavian/Skin_Tools_Mobile_Legends/main/Send_Banner_Menu/IMG_BANNER/Dragon_Tamer_squad_wall.jpg"
   },  {
     "NAMA": "LIGHBORN",
-    "BANNER": "https://raw.githubusercontent.com/danyoktavian/Skin_Tools_Mobile_Legends/main/Send_Banner_Menu/IMG_BANNER/Lightborn_squad_wall.jpg"
+    "BANNER1": "https://raw.githubusercontent.com/danyoktavian/Skin_Tools_Mobile_Legends/main/Send_Banner_Menu/IMG_BANNER/Lightborn_squad_wall.jpg"
   },  {
     "NAMA": "S.A.B.E.R",
-    "BANNER": "https://raw.githubusercontent.com/danyoktavian/Skin_Tools_Mobile_Legends/main/Send_Banner_Menu/IMG_BANNER/S.A.B.E.R._squad_wall.jpg"
+    "BANNER1": "https://raw.githubusercontent.com/danyoktavian/Skin_Tools_Mobile_Legends/main/Send_Banner_Menu/IMG_BANNER/S.A.B.E.R._squad_wall.jpg"
   },  {
     "NAMA": "S.T.U.N",
-    "BANNER": "https://raw.githubusercontent.com/danyoktavian/Skin_Tools_Mobile_Legends/main/Send_Banner_Menu/IMG_BANNER/S.T.U.N._squad_wall.jpg"
+    "BANNER1": "https://raw.githubusercontent.com/danyoktavian/Skin_Tools_Mobile_Legends/main/Send_Banner_Menu/IMG_BANNER/S.T.U.N._squad_wall.jpg"
   },  {
     "NAMA": "SANRIO",
-    "BANNER": "https://raw.githubusercontent.com/danyoktavian/Skin_Tools_Mobile_Legends/main/Send_Banner_Menu/IMG_BANNER/Sanrio_wall.jpg"
+    "BANNER1": "https://raw.githubusercontent.com/danyoktavian/Skin_Tools_Mobile_Legends/main/Send_Banner_Menu/IMG_BANNER/Sanrio_wall.jpg"
   },  {
     "NAMA": "THE ASPIRANTS",
-    "BANNER": "https://raw.githubusercontent.com/danyoktavian/Skin_Tools_Mobile_Legends/main/Send_Banner_Menu/IMG_BANNER/The_Aspirants_squad_wall.jpg"
+    "BANNER1": "https://raw.githubusercontent.com/danyoktavian/Skin_Tools_Mobile_Legends/main/Send_Banner_Menu/IMG_BANNER/The_Aspirants_squad_wall.jpg"
   },  {
     "NAMA": "TRANSFORMERS",
-    "BANNER": "https://raw.githubusercontent.com/danyoktavian/Skin_Tools_Mobile_Legends/main/Send_Banner_Menu/IMG_BANNER/Transformers_2_wall.jpg"
+    "BANNER1": "https://raw.githubusercontent.com/danyoktavian/Skin_Tools_Mobile_Legends/main/Send_Banner_Menu/IMG_BANNER/Transformers_2_wall.jpg"
   },  {
     "NAMA": "V.E.N.O.M",
-    "BANNER": "https://raw.githubusercontent.com/danyoktavian/Skin_Tools_Mobile_Legends/main/Send_Banner_Menu/IMG_BANNER/V.E.N.O.M._squad_wall.jpg"
+    "BANNER1": "https://raw.githubusercontent.com/danyoktavian/Skin_Tools_Mobile_Legends/main/Send_Banner_Menu/IMG_BANNER/V.E.N.O.M._squad_wall.jpg"
   },  {
     "NAMA": "ZODIAC",
-    "BANNER": "https://raw.githubusercontent.com/danyoktavian/Skin_Tools_Mobile_Legends/main/Send_Banner_Menu/IMG_BANNER/Zodiac_Skins.jpg"
+    "BANNER1": "https://raw.githubusercontent.com/danyoktavian/Skin_Tools_Mobile_Legends/main/Send_Banner_Menu/IMG_BANNER/Zodiac_Skins.jpg"
   }
 ]
